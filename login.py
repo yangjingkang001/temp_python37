@@ -5,5 +5,5 @@ def login():
 def index():
 	print('index info')
 
-a = 1
+a = b = 2
 
